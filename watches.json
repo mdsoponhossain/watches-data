@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "price": 12000
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster",
+    "price": 9500
+  },
+  {
+    "id": 3,
+    "name": "Tag Heuer Carrera",
+    "price": 7500
+  },
+  {
+    "id": 4,
+    "name": "Patek Philippe Calatrava",
+    "price": 25000
+  },
+  {
+    "id": 5,
+    "name": "Seiko Prospex",
+    "price": 350
+  },
+  {
+    "id": 6,
+    "name": "Casio G-Shock",
+    "price": 150
+  },
+  {
+    "id": 7,
+    "name": "Fossil Grant",
+    "price": 200
+  },
+  {
+    "id": 8,
+    "name": "Citizen Eco-Drive",
+    "price": 300
+  },
+  {
+    "id": 9,
+    "name": "Tissot T-Touch",
+    "price": 800
+  },
+  {
+    "id": 10,
+    "name": "Bulova Precisionist",
+    "price": 400
+  }
+]
